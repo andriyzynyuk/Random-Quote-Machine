@@ -1,0 +1,29 @@
+body {
+    transition: background-color 0.7s;
+}
+
+#quote-box {
+    background-color:white;
+    padding: 2rem;
+    font-size: xx-large;
+    max-width: 500px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    transition: color 0.7s;
+    border: none;
+}
+
+#author {
+    font-size: large;
+}
+
+#new-quote {
+    color: white;
+    transition: background-color 0.7s;
+}
+
+#tweet-quote {
+    color: white;
+    transition: background-color 0.7s;
+}
